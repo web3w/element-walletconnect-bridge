@@ -47,3 +47,5 @@ build
 
 .makeFlags*
 config
+.idea
+/.idea/

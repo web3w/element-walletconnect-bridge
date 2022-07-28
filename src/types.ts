@@ -1,5 +1,6 @@
 import WebSocket from 'ws'
 
+// @ts-ignore
 export { Logger } from 'fastify'
 
 export type WebSocketData = WebSocket.Data
